@@ -5,12 +5,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+💻 Self-taught developer with a passion for technology.
+🌱 I'm passionate about contributing to open-source and learning from the community.
+📍 Based in India.
+🕸️ Enthusiastic about building responsive web applications.
+🤝 Always eager to connect with new people and collaborate on innovative projects.
+🌋 Seeking challenging opportunities to grow my skills.
+✍️ I write tech blogs on Medium and share insights.
+⚡ Fun Fact: I enjoy CrossFit and always learn new things!
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
